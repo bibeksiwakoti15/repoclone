@@ -1,0 +1,1 @@
+a try to insert content directly into file along with creating a file
